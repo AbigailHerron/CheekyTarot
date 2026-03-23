@@ -28,8 +28,15 @@ namespace CheekyTarot
 
         private void LoadCards()
         {
-            string json = File.ReadAllText("cards.json");
-            cards = JsonSerializer.Deserialize<TarotCard[]>(json);
+            try
+            {
+                string json = File.ReadAllText("cards.json");
+                cards = JsonSerializer.Deserialize<TarotCard[]>(json);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Failed to load tarot cards. The universe is silent. :(");
+            }
         }
 
         private void DrawCard_Click(object sender, RoutedEventArgs e)
@@ -50,5 +57,6 @@ namespace CheekyTarot
                 MeaningText.Text = card.Upright;
             }
         }
+
     }
 }
