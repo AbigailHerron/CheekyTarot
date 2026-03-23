@@ -14,3 +14,6 @@ Created as a personal project while refreshing core C# and WPF skills.
 - Card images
 - Personality modes
 - Deck system (no repeats)
+
+### Disclaimer
+This app is meant for entertainment purposes only and should not be taken as life advice
