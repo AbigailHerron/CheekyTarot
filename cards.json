@@ -1,0 +1,325 @@
+[
+  {
+    "Name": "The Fool",
+    "Upright": "Beginnings, innocence, spontaneity.",
+    "Reversed": "Recklessness, naivety, risk."
+  },
+  {
+    "Name": "The Magician",
+    "Upright": "Manifestation, resourcefulness, power.",
+    "Reversed": "Manipulation, illusion, deceit."
+  },
+  {
+    "Name": "The High Priestess",
+    "Upright": "Intuition, mystery, inner voice.",
+    "Reversed": "Secrets, disconnected intuition."
+  },
+  {
+    "Name": "The Empress",
+    "Upright": "Nurturing, abundance, creativity.",
+    "Reversed": "Dependence, smothering."
+  },
+  {
+    "Name": "The Emperor",
+    "Upright": "Authority, structure, leadership.",
+    "Reversed": "Control issues, rigidity."
+  },
+  {
+    "Name": "The Hierophant",
+    "Upright": "Tradition, guidance, belief systems.",
+    "Reversed": "Rebellion, nonconformity."
+  },
+  {
+    "Name": "The Lovers",
+    "Upright": "Love, harmony, choices.",
+    "Reversed": "Conflict, imbalance."
+  },
+  {
+    "Name": "The Chariot",
+    "Upright": "Control, willpower, success.",
+    "Reversed": "Lack of direction, aggression."
+  },
+  {
+    "Name": "Strength",
+    "Upright": "Courage, patience, inner strength.",
+    "Reversed": "Self-doubt, weakness."
+  },
+  {
+    "Name": "The Hermit",
+    "Upright": "Reflection, solitude, wisdom.",
+    "Reversed": "Isolation, loneliness."
+  },
+  {
+    "Name": "Wheel of Fortune",
+    "Upright": "Change, cycles, fate.",
+    "Reversed": "Bad luck, resistance to change."
+  },
+  {
+    "Name": "Justice",
+    "Upright": "Fairness, truth, accountability.",
+    "Reversed": "Dishonesty, imbalance."
+  },
+  {
+    "Name": "The Hanged Man",
+    "Upright": "Pause, surrender, new perspective.",
+    "Reversed": "Stagnation, delay."
+  },
+  {
+    "Name": "Death",
+    "Upright": "Endings, transformation, rebirth.",
+    "Reversed": "Resistance, fear of change."
+  },
+  {
+    "Name": "Temperance",
+    "Upright": "Balance, moderation, patience.",
+    "Reversed": "Excess, imbalance."
+  },
+  {
+    "Name": "The Devil",
+    "Upright": "Temptation, bondage, materialism.",
+    "Reversed": "Freedom, release."
+  },
+  {
+    "Name": "The Tower",
+    "Upright": "Sudden change, upheaval, revelation.",
+    "Reversed": "Avoiding disaster, fear of change."
+  },
+  {
+    "Name": "The Star",
+    "Upright": "Hope, healing, renewal.",
+    "Reversed": "Despair, lack of faith."
+  },
+  {
+    "Name": "The Moon",
+    "Upright": "Illusion, fear, intuition.",
+    "Reversed": "Clarity, truth revealed."
+  },
+  {
+    "Name": "The Sun",
+    "Upright": "Joy, success, positivity.",
+    "Reversed": "Temporary sadness."
+  },
+  {
+    "Name": "Judgement",
+    "Upright": "Awakening, reckoning, renewal.",
+    "Reversed": "Self-doubt, ignoring calling."
+  },
+  {
+    "Name": "The World",
+    "Upright": "Completion, accomplishment.",
+    "Reversed": "Lack of closure."
+  },
+
+  {
+    "Name": "Ace of Cups",
+    "Upright": "New emotions, love, compassion.",
+    "Reversed": "Emotional loss."
+  },
+  {
+    "Name": "Two of Cups",
+    "Upright": "Partnership, unity.",
+    "Reversed": "Breakup, imbalance."
+  },
+  {
+    "Name": "Three of Cups",
+    "Upright": "Celebration, friendship.",
+    "Reversed": "Overindulgence."
+  },
+  {
+    "Name": "Four of Cups",
+    "Upright": "Apathy, contemplation.",
+    "Reversed": "Awareness, acceptance."
+  },
+  {
+    "Name": "Five of Cups",
+    "Upright": "Loss, grief.",
+    "Reversed": "Recovery."
+  },
+  {
+    "Name": "Six of Cups",
+    "Upright": "Nostalgia, memories.",
+    "Reversed": "Stuck in past."
+  },
+  {
+    "Name": "Seven of Cups",
+    "Upright": "Choices, illusion.",
+    "Reversed": "Clarity."
+  },
+  {
+    "Name": "Eight of Cups",
+    "Upright": "Walking away.",
+    "Reversed": "Avoidance."
+  },
+  {
+    "Name": "Nine of Cups",
+    "Upright": "Satisfaction, wishes fulfilled.",
+    "Reversed": "Discontent."
+  },
+  {
+    "Name": "Ten of Cups",
+    "Upright": "Harmony, happiness.",
+    "Reversed": "Misalignment."
+  },
+  {
+    "Name": "Page of Cups",
+    "Upright": "Curiosity, creativity.",
+    "Reversed": "Emotional immaturity."
+  },
+  {
+    "Name": "Knight of Cups",
+    "Upright": "Romance, charm.",
+    "Reversed": "Moodiness."
+  },
+  {
+    "Name": "Queen of Cups",
+    "Upright": "Compassion, calm.",
+    "Reversed": "Overly sensitive."
+  },
+  {
+    "Name": "King of Cups",
+    "Upright": "Emotional balance.",
+    "Reversed": "Coldness."
+  },
+
+  {
+    "Name": "Ace of Swords",
+    "Upright": "Clarity, truth.",
+    "Reversed": "Confusion."
+  },
+  {
+    "Name": "Two of Swords",
+    "Upright": "Indecision.",
+    "Reversed": "Overwhelm."
+  },
+  {
+    "Name": "Three of Swords",
+    "Upright": "Heartbreak.",
+    "Reversed": "Healing."
+  },
+  {
+    "Name": "Four of Swords",
+    "Upright": "Rest.",
+    "Reversed": "Burnout."
+  },
+  {
+    "Name": "Five of Swords",
+    "Upright": "Conflict.",
+    "Reversed": "Resolution."
+  },
+  {
+    "Name": "Six of Swords",
+    "Upright": "Transition.",
+    "Reversed": "Stagnation."
+  },
+  {
+    "Name": "Seven of Swords",
+    "Upright": "Deception.",
+    "Reversed": "Confession."
+  },
+  {
+    "Name": "Eight of Swords",
+    "Upright": "Restriction.",
+    "Reversed": "Freedom."
+  },
+  {
+    "Name": "Nine of Swords",
+    "Upright": "Anxiety.",
+    "Reversed": "Relief."
+  },
+  {
+    "Name": "Ten of Swords",
+    "Upright": "Endings.",
+    "Reversed": "Recovery."
+  },
+  {
+    "Name": "Page of Swords",
+    "Upright": "Curiosity.",
+    "Reversed": "Gossip."
+  },
+  {
+    "Name": "Knight of Swords",
+    "Upright": "Ambition.",
+    "Reversed": "Impulsiveness."
+  },
+  {
+    "Name": "Queen of Swords",
+    "Upright": "Independence.",
+    "Reversed": "Bitterness."
+  },
+  {
+    "Name": "King of Swords",
+    "Upright": "Authority.",
+    "Reversed": "Manipulation."
+  },
+
+  {
+    "Name": "Ace of Pentacles",
+    "Upright": "Opportunity.",
+    "Reversed": "Missed chance."
+  },
+  {
+    "Name": "Two of Pentacles",
+    "Upright": "Balance.",
+    "Reversed": "Overwhelm."
+  },
+  {
+    "Name": "Three of Pentacles",
+    "Upright": "Teamwork.",
+    "Reversed": "Disharmony."
+  },
+  {
+    "Name": "Four of Pentacles",
+    "Upright": "Security.",
+    "Reversed": "Greed."
+  },
+  {
+    "Name": "Five of Pentacles",
+    "Upright": "Hardship.",
+    "Reversed": "Recovery."
+  },
+  {
+    "Name": "Six of Pentacles",
+    "Upright": "Generosity.",
+    "Reversed": "Strings attached."
+  },
+  {
+    "Name": "Seven of Pentacles",
+    "Upright": "Patience.",
+    "Reversed": "Frustration."
+  },
+  {
+    "Name": "Eight of Pentacles",
+    "Upright": "Skill building.",
+    "Reversed": "Perfectionism."
+  },
+  {
+    "Name": "Nine of Pentacles",
+    "Upright": "Independence.",
+    "Reversed": "Overdependence."
+  },
+  {
+    "Name": "Ten of Pentacles",
+    "Upright": "Wealth.",
+    "Reversed": "Instability."
+  },
+  {
+    "Name": "Page of Pentacles",
+    "Upright": "Learning.",
+    "Reversed": "Lack of progress."
+  },
+  {
+    "Name": "Knight of Pentacles",
+    "Upright": "Hard work.",
+    "Reversed": "Stubbornness."
+  },
+  {
+    "Name": "Queen of Pentacles",
+    "Upright": "Practicality.",
+    "Reversed": "Neglect."
+  },
+  {
+    "Name": "King of Pentacles",
+    "Upright": "Success.",
+    "Reversed": "Greed."
+  }
+]
