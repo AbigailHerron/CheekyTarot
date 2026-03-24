@@ -10,7 +10,7 @@ namespace CheekyTarot
         public string Name { get; set; }
         public string Upright { get; set; }
         public string Reversed { get; set; }
-        public string ImagePath { get; set; }
+        public string ImagePath { get; set; } // no path yet (have to create images)
     }
 
 
@@ -24,7 +24,7 @@ namespace CheekyTarot
         {
             InitializeComponent();
             LoadCards();
-        }
+        }// end MainWindow()
 
         private void LoadCards()
         {
@@ -37,7 +37,7 @@ namespace CheekyTarot
             {
                 MessageBox.Show("Failed to load tarot cards. The universe is silent. :(");
             }
-        }
+        }// end LoadCards()
 
         private void DrawCard_Click(object sender, RoutedEventArgs e)
         {
@@ -56,7 +56,6 @@ namespace CheekyTarot
                 CardText.Text = card.Name;
                 MeaningText.Text = card.Upright;
             }
-        }
-
+        }// end DrawCard_Click()
     }
-}
+}// end CheekyTarot namespace{}
