@@ -2,7 +2,8 @@
   {
     "Name": "The Fool",
     "Upright": "Beginnings, innocence, spontaneity.",
-    "Reversed": "Recklessness, naivety, risk."
+    "Reversed": "Recklessness, naivety, risk.",
+    "ImagePath": "Images/The_Fool.png"
   },
   {
     "Name": "The Magician",
