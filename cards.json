@@ -8,7 +8,8 @@
   {
     "Name": "The Magician",
     "Upright": "Manifestation, resourcefulness, power.",
-    "Reversed": "Manipulation, illusion, deceit."
+    "Reversed": "Manipulation, illusion, deceit.",
+    "ImagePath": "Images/The_Magician.png"
   },
   {
     "Name": "The High Priestess",
