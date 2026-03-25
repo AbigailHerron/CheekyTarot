@@ -14,7 +14,8 @@
   {
     "Name": "The High Priestess",
     "Upright": "Intuition, mystery, inner voice.",
-    "Reversed": "Secrets, disconnected intuition."
+    "Reversed": "Secrets, disconnected intuition.",
+    "ImagePath": "Images/The_High_Priestess.png"
   },
   {
     "Name": "The Empress",
