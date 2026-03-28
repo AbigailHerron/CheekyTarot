@@ -20,12 +20,14 @@
   {
     "Name": "The Empress",
     "Upright": "Nurturing, abundance, creativity.",
-    "Reversed": "Dependence, smothering."
+    "Reversed": "Dependence, smothering.",
+    "ImagePath": "Images/The_Empress.png"
   },
   {
     "Name": "The Emperor",
     "Upright": "Authority, structure, leadership.",
-    "Reversed": "Control issues, rigidity."
+    "Reversed": "Control issues, rigidity.",
+    "ImagePath": "Images/The_Emporer.png"
   },
   {
     "Name": "The Hierophant",
