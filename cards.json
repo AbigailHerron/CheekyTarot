@@ -27,12 +27,13 @@
     "Name": "The Emperor",
     "Upright": "Authority, structure, leadership.",
     "Reversed": "Control issues, rigidity.",
-    "ImagePath": "Images/The_Emporer.png"
+    "ImagePath": "Images/The_Emperor.png"
   },
   {
     "Name": "The Hierophant",
     "Upright": "Tradition, guidance, belief systems.",
-    "Reversed": "Rebellion, nonconformity."
+    "Reversed": "Rebellion, nonconformity.",
+    "ImagePath": "Images/The_Hierophant.png"
   },
   {
     "Name": "The Lovers",
