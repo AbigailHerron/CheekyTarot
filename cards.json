@@ -38,7 +38,8 @@
   {
     "Name": "The Lovers",
     "Upright": "Love, harmony, choices.",
-    "Reversed": "Conflict, imbalance."
+    "Reversed": "Conflict, imbalance.",
+    "ImagePath": "Images/The_Lovers.png"
   },
   {
     "Name": "The Chariot",
