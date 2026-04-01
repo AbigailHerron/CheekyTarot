@@ -44,12 +44,14 @@
   {
     "Name": "The Chariot",
     "Upright": "Control, willpower, success.",
-    "Reversed": "Lack of direction, aggression."
+    "Reversed": "Lack of direction, aggression.",
+    "ImagePath": "Images/The_Chariot.png"
   },
   {
     "Name": "Strength",
     "Upright": "Courage, patience, inner strength.",
-    "Reversed": "Self-doubt, weakness."
+    "Reversed": "Self-doubt, weakness.",
+    "ImagePath": "Images/The_Strength.png"
   },
   {
     "Name": "The Hermit",
