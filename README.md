@@ -8,7 +8,7 @@ A simple WPF desktop tarot app built in C#.
 - Data loaded from JSON
 
 ## Purpose
-Created as a personal project while refreshing core C# and WPF skills.
+A personal portfolio project demonstrating C# and WPF development, JSON data handling, and iterative feature development.
 
 ## Future Improvements
 - Card images
