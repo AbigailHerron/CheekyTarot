@@ -62,7 +62,8 @@
   {
     "Name": "Wheel of Fortune",
     "Upright": "Change, cycles, fate.",
-    "Reversed": "Bad luck, resistance to change."
+    "Reversed": "Bad luck, resistance to change.",
+    "ImagePath": "Images/The_Wheel_Of_Fortune.png"
   },
   {
     "Name": "Justice",
