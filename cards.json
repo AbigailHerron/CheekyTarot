@@ -56,7 +56,8 @@
   {
     "Name": "The Hermit",
     "Upright": "Reflection, solitude, wisdom.",
-    "Reversed": "Isolation, loneliness."
+    "Reversed": "Isolation, loneliness.",
+    "ImagePath": "Images/The_Hermit.png"
   },
   {
     "Name": "Wheel of Fortune",
