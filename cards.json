@@ -68,12 +68,14 @@
   {
     "Name": "Justice",
     "Upright": "Fairness, truth, accountability.",
-    "Reversed": "Dishonesty, imbalance."
+    "Reversed": "Dishonesty, imbalance.",
+    "ImagePath": "Images/The_Justice.png"
   },
   {
     "Name": "The Hanged Man",
     "Upright": "Pause, surrender, new perspective.",
-    "Reversed": "Stagnation, delay."
+    "Reversed": "Stagnation, delay.",
+    "ImagePath": "Images/The_Hanged_Man.png"
   },
   {
     "Name": "Death",
