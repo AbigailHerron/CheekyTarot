@@ -80,7 +80,8 @@
   {
     "Name": "Death",
     "Upright": "Endings, transformation, rebirth.",
-    "Reversed": "Resistance, fear of change."
+    "Reversed": "Resistance, fear of change.",
+    "ImagePath": "Images/Death.png"
   },
   {
     "Name": "Temperance",
