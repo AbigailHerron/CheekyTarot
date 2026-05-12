@@ -92,7 +92,8 @@
   {
     "Name": "The Devil",
     "Upright": "Temptation, bondage, materialism.",
-    "Reversed": "Freedom, release."
+    "Reversed": "Freedom, release.",
+    "ImagePath": "Images/The_Devil.png"
   },
   {
     "Name": "The Tower",
@@ -102,7 +103,8 @@
   {
     "Name": "The Star",
     "Upright": "Hope, healing, renewal.",
-    "Reversed": "Despair, lack of faith."
+    "Reversed": "Despair, lack of faith.",
+    "ImagePath": "Images/The_Star.png"
   },
   {
     "Name": "The Moon",
