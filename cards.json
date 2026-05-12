@@ -86,7 +86,8 @@
   {
     "Name": "Temperance",
     "Upright": "Balance, moderation, patience.",
-    "Reversed": "Excess, imbalance."
+    "Reversed": "Excess, imbalance.",
+    "ImagePath": "Images/Temperance.png"
   },
   {
     "Name": "The Devil",
